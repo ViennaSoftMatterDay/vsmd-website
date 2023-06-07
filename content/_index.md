@@ -1,22 +1,25 @@
 ---
 title: "Vienna Soft Matter Day"
 
-description: The second Vienna Soft Matter Day will be held on December 1st 2023 at the Erwin Schršdinger Institute
+description: The second Vienna Soft Matter Day will be held on December 1st 2023 at the Erwin SchrÅ¡dinger Institute of University of vienna
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
 The 2023 Soft Matter Day regional meeting will be held on December 1st 
-at the University of Vienna at the [Erwin Schršdinger Institute](https://www.esi.ac.at/). Our goal is to encourage the establishment of a
+at the University of Vienna at the [Erwin SchrÅ¡dinger Institute](https://www.esi.ac.at/). Our goal is to encourage the establishment of a
 coherent scientific community in
-the area, which is why the meeting is free of registration fees. We members of the soft matter community at all levels (PIs, postdocs, students) to apply.There will be
-the opportunity for PhD students and postdocs to present their work via Posters and talks and ample times for discussions throughout the day.
+the area, which is why the meeting is free of registration fees. We encourage members of the soft matter community at all levels (PIs, postdocs, students)
+to participate. Please register using the link below. There will be
+the opportunity for PhD students and postdocs to present their work via talks, posters and flash talks, and ample times for discussions throughout the day.
 
 Register via the [signup form](https://forms.gle/t31yk89tL9xEsjy69) until October 1st 2023.
 
+More details about the conference will follow.
+
 If you have questions, comments, or problems with the registration, please contact one of the organisors:
-[Peter van Oostrum (BOKU)](mailto:peter.van.oostrum@boku.ac.at), [Sebastian Fürthauer (TU Wien)](mailto:fuerthauer@iap.tuwien.ac.at),
-[Andreas Zöttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at)
+[Peter van Oostrum (BOKU)](mailto:peter.van.oostrum@boku.ac.at), [Sebastian FÃ¼rthauer (TU Wien)](mailto:fuerthauer@iap.tuwien.ac.at),
+[Andreas ZÃ¶ttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at), [Carl], [Jia Min? - ask her]
 
 
