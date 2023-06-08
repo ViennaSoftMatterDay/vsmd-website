@@ -20,6 +20,9 @@ More details about the conference will follow.
 
 If you have questions, comments, or problems with the registration, please contact one of the organisors:
 [Peter van Oostrum (BOKU)](mailto:peter.van.oostrum@boku.ac.at), [Sebastian Fürthauer (TU Wien)](mailto:fuerthauer@iap.tuwien.ac.at),
-[Andreas Zöttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at), [Carl Goodrich (ISTA)](mailto:carl.goodrich@ist.ac.at), Jia Min?
+[Andreas Zöttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at), [Carl Goodrich (ISTA)](mailto:carl.goodrich@ist.ac.at)
+
+<br>
+
 
 
