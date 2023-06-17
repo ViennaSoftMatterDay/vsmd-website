@@ -4,7 +4,7 @@ title: "Vienna Soft Matter Day"
 description: The second Vienna Soft Matter Day will be held on December 1st 2023 at the Erwin Schrödinger Institute of University of Vienna
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/vienna-skyline-cropped.jpg'
 ---
 
 The 2023 Soft Matter Day regional meeting will be held on December 1st 
