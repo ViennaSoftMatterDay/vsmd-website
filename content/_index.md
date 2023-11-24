@@ -14,9 +14,7 @@ the area, which is why the meeting is free of registration fees. We encourage me
 to participate. Please register using the link below. There will be
 the opportunity for PhD students and postdocs to present their work via talks, posters and flash talks, and ample times for discussions throughout the day, similar to [last years event](vsmd22). 
 
-Register via the [signup form](https://forms.gle/t31yk89tL9xEsjy69) until October 1st 2023.
-
-More details about the conference will follow.
+You can download the program for the day by following this [link](static/ProgrmVSMD23.pdf) .
 
 If you have questions, comments, or problems with the registration, please contact one of the organisors:
 [Peter van Oostrum (BOKU)](mailto:peter.van.oostrum@boku.ac.at), [Sebastian Fürthauer (TU Wien)](mailto:fuerthauer@iap.tuwien.ac.at),
