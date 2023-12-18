@@ -17,7 +17,7 @@ discussions throughout the day, similar to [last years event](vsmd22).
 
 You can download the program for the day by following this [link](/ProgramVSMD23.pdf) . Also, here is a [list of restaurants](/restaurants.pdf) near ESI.
 
-[[/images/VSMD-group-photo.JPG]]
+[[/VSMD23-group-photo.JPG]]
 
 If you have questions, comments, or problems with the registration, please contact one of the organisors:
 [Peter van Oostrum (BOKU)](mailto:peter.van.oostrum@boku.ac.at), [Sebastian Fürthauer (TU Wien)](mailto:fuerthauer@iap.tuwien.ac.at),
