@@ -1,4 +1,4 @@
-title = "VSMD23"
+title = "VSMD24"
 baseURL = "https://vsmd23.netlify.app"
 languageCode = "en-us"
 resourceDir = "../resources"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "VSMD23"
+    title = "VSMD24"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
