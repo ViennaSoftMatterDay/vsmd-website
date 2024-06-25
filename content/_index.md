@@ -16,7 +16,7 @@ There will be the opportunity for PhD students and postdocs to present their wor
 You can download the program for the day by following this [link]() (Coming soon!).
 
 If you have questions, comments, or problems with the registration, please contact one of the organisors:
-[Peter van Oostrum (BOKU)](mailto:peter.van.oostrum@boku.ac.at), [Sebastian Fürthauer (TU Wien)](mailto:fuerthauer@iap.tuwien.ac.at),
+[Carina Karner (TU Wien)](mailto:carina.karner@tuwien.ac.at), [Tayebeh Saghaei (BOKU)](mailto:t.saghaei@boku.ac.at),
 [Andreas Zöttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at), [Carl Goodrich (ISTA)](mailto:carl.goodrich@ist.ac.at)
 
 
