@@ -19,7 +19,7 @@ If you have questions, comments, or problems with the registration, please conta
 
 * [Carina Karner (TU Wien)](mailto:carina.karner@tuwien.ac.at)
 * [Tayebeh Saghaei (BOKU)](mailto:t.saghaei@boku.ac.at)
-* [Andreas Zöttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at)
+* [Andreas Zoettl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at)
 * [Carl Goodrich (ISTA)](mailto:carl.goodrich@ist.ac.at)
 
 
