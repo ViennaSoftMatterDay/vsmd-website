@@ -7,7 +7,8 @@ cascade:
   featured_image: '/images/Wien-skyline2.jpg'
 ---
 
-The 2024 Soft Matter Day regional meeting will be held on the 15th of November 2024 at the [Technical University of Vienna](https://www.tuwien.at/).
+The upcoming edition of the VSMD will be a day-long event held on **15th of November 2024**, in the 
+“TUthe Sky” lecture hall at **Getreidemarkt 9** in Vienna followed by an informal wine and cheese. 
 Our goal is to encourage the establishment of a coherent scientific community in the area, which is why the meeting is free of registration fees. 
 We encourage members of the soft matter community at all levels (PIs, postdocs, students) to participate.
 
