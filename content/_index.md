@@ -9,13 +9,11 @@ cascade:
 
 The 2024 Soft Matter Day regional meeting will be held on the 15th of November 2024 at the [Technical University of Vienna](https://www.tuwien.at/).
 Our goal is to encourage the establishment of a coherent scientific community in the area, which is why the meeting is free of registration fees. 
-We encourage members of the soft matter community at all levels (PIs, postdocs, students) to participate. https://forms.gle/xyVuYfijzsntn3dP9
+We encourage members of the soft matter community at all levels (PIs, postdocs, students) to participate.
 
 You can sign up [here](https://forms.gle/xyVuYfijzsntn3dP9)!
 
 There will be the opportunity for PhD students and postdocs to present their work via talks, posters and flash talks, and ample times for discussions throughout the day, similar to [last years event](vsmd23) and [the one before](vsmd22). 
-
-You can download the program for the day by following this [link]() (Coming soon!).
 
 If you have questions, comments, or problems with the registration, please contact one of the organisers:
 
