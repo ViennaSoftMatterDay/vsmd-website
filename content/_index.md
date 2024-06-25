@@ -7,8 +7,8 @@ cascade:
   featured_image: '/images/Wien-skyline2.jpg'
 ---
 
-The upcoming **2024 Soft Matter Day** will be a day-long event held on **15th of November 2024**, in the 
-“TUthe Sky” lecture hall at **Getreidemarkt 9** in Vienna followed by an informal wine and cheese. 
+The upcoming **2024 Vienna Soft Matter Day** will be a day-long event held on **15th of November 2024**, in the 
+“TUthe Sky” lecture hall at **Getreidemarkt 9** in Vienna. 
 Our goal is to encourage the establishment of a coherent scientific community in the area, which is why the meeting is free of registration fees. 
 We encourage members of the soft matter community at all levels (PIs, postdocs, students) to participate.
 
