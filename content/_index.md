@@ -15,11 +15,11 @@ There will be the opportunity for PhD students and postdocs to present their wor
 
 You can download the program for the day by following this [link]() (Coming soon!).
 
-If you have questions, comments, or problems with the registration, please contact one of the organisors:
+If you have questions, comments, or problems with the registration, please contact one of the organisers:
 
 * [Carina Karner (TU Wien)](mailto:carina.karner@tuwien.ac.at)
 * [Tayebeh Saghaei (BOKU)](mailto:t.saghaei@boku.ac.at)
-* [Andreas ZÃ¶ttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at)
+* [Andreas Zöttl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at)
 * [Carl Goodrich (ISTA)](mailto:carl.goodrich@ist.ac.at)
 
 
