@@ -1,5 +1,5 @@
 title = "VSMD24"
-baseURL = "https://vsmd23.netlify.app"
+baseURL = "https://vsmd.netlify.app"
 languageCode = "en-us"
 resourceDir = "../resources"
 theme = 'ananke'
