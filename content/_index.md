@@ -4,7 +4,7 @@ title: "Vienna Soft Matter Day"
 description: The fourth Vienna Soft Matter Day will be held on the 21th of November 2025 at the BOKU.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/BOKU2.jpg'
+  featured_image: '/images/BOKU_cropped.jpg'
 ---
 
 The upcoming **2025 Vienna Soft Matter Day** will be a day-long event held on **21th of November 2025**, at the **BOKU University**.
