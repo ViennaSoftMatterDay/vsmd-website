@@ -27,8 +27,27 @@ If you have questions, comments, or problems with the registration, please conta
 * [Andreas Zoettl (Uni Wien)](mailto:andreas.zoettl@univie.ac.at)
 * [Scott Russell Waitukaitis (ISTA)](mailto:Scott.Waitukaitis@ist.ac.at)
 
-<img src="/images/ISTA_Icon_black.png" height="200px" alt="ISTA Logo" />
-<img src="/images/Uni_Logo.png" height="200px" alt="univie Logo" />
-<img src="/images/BOKU_Hauptlogo_RGB.png" height="200px" alt="BOKU Logo" />
-<img src="/images/Logo__TU-Signet.png" height="200px" alt="TU Logo" />
+{{< figure
+  src="/images/ISTA_Icon_black.png"
+  alt="ISTA Logo"
+  height="200px"
+>}}
 
+
+{{< figure
+  src="/images/Uni_Logo.png"
+  alt="univie Logo"
+  height="200px"
+>}}
+
+{{< figure
+  src="/images/BOKU_Hauptlogo_RGB.png"
+  alt="BOKU Logo"
+  height="200px"
+>}}
+
+{{< figure
+  src="/images/Logo__TU-Signet.png"
+  alt="TU Logo"
+  height="200px"
+>}}
