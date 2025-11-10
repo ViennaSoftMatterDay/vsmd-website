@@ -28,3 +28,7 @@ If you have questions, comments, or problems with the registration, please conta
 * [Scott Russell Waitukaitis (ISTA)](mailto:Scott.Waitukaitis@ist.ac.at)
 
 
+![ISTA Logo](/images/ISTA_Icon_black.png)
+![univie Logo](/images/Uni_Logo.png)
+![BOKU Logo](/images/BOKU_Hauptlogo_RGB.png)
+![TU Logo](/images/Logo__TU-Signet.png)
