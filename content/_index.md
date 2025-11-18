@@ -18,6 +18,8 @@ We encourage members of the soft matter community at all levels (PIs, postdocs, 
 You can sign up [here](https://forms.gle/QVmxW2JE6P6LuHfSA)
 The registration deadline is 19th of September 2025 
 
+[You can download the **program** for the day here.](/programm2025md.pdf)
+
 There will be the opportunity for PhD students and postdocs to present their work via talks, posters and flash talks, and enough time for discussions throughout the day.
 Once the registration and selection of talks is completed you will be able to download the program here. 
 If you have questions, comments, or problems with the registration, please contact one of the organisers:
