@@ -7,7 +7,9 @@ cascade:
   featured_image: '/images/BOKU_cropped.jpg'
 ---
 
-The upcoming **2025 Vienna Soft Matter Day** will be a day-long event held on **21th of November 2025**, at the **BOKU University**.
+The upcoming **2025 Vienna Soft Matter Day** will be a day-long event held on **21th of November 2025**, at the **BOKU University** at Ilse Wallentin Haus, Peter Jordan Strasse 82, 1190 Wien. The registration starts at 8:30 and the program will be from 8:50 to 19:00.
+[You can download the **program** for the day here.](/programm2025.pdf)
+For lunch options in the BOKU area, see this page.
 
 The VSMD brings together soft matter experimentalists and theorists from across the greater Vienna area to share new results, exchange ideas, and form new collaborations.
 It is also an ideal stage for young researchers to showcase their work and connect with scientists at every career level. 
@@ -15,10 +17,6 @@ It is also an ideal stage for young researchers to showcase their work and conne
 Our goal is to encourage the establishment of a coherent scientific community in the area, which is why the meeting is free of registration fees. 
 We encourage members of the soft matter community at all levels (PIs, postdocs, students) to participate.
 
-You can sign up [here](https://forms.gle/QVmxW2JE6P6LuHfSA)
-The registration deadline is 19th of September 2025 
-
-[You can download the **program** for the day here.](/programm2025md.pdf)
 
 There will be the opportunity for PhD students and postdocs to present their work via talks, posters and flash talks, and enough time for discussions throughout the day.
 Once the registration and selection of talks is completed you will be able to download the program here. 
