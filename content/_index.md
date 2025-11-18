@@ -11,7 +11,7 @@ The upcoming **2025 Vienna Soft Matter Day** will be a day-long event held on **
 
 [You can download the **program** for the day here.](/program2025.pdf)
 
-For lunch options in the BOKU area, see [this page](https://boku.ac.at/en/international/themen/international-staff-coming-to-boku/support-for-guest-lecturers-employees/leben-in-wien-tipps/essen-tuerkenschanze)!
+For lunch options in the BOKU area, see [this page](https://boku.ac.at/en/international/themen/international-staff-coming-to-boku/support-for-guest-lecturers-employees/leben-in-wien-tipps/essen-tuerkenschanze).
 
 The VSMD brings together soft matter experimentalists and theorists from across the greater Vienna area to share new results, exchange ideas, and form new collaborations.
 It is also an ideal stage for young researchers to showcase their work and connect with scientists at every career level. 
