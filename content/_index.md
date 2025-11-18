@@ -9,7 +9,8 @@ cascade:
 
 The upcoming **2025 Vienna Soft Matter Day** will be a day-long event held on **21th of November 2025**, at the **BOKU University** at [Ilse Wallentin Haus](https://navi.boku.ac.at/?q=Ilse-Wallentin-Haus), Peter Jordan Strasse 82, 1190 Wien. The registration starts at 8:30 and the program will be from 8:50 to 19:00.
 
-[You can download the **program** for the day here.](/program2025.pdf). For those of you with posters: you can view your poster number [here](/Posters2025.pdf).
+[You can download the **program** for the day here.](/program2025.pdf). For those of you with posters: you can view your poster number 
+[here](/posters2025.pdf).
 
 For lunch options in the BOKU area, see [this page](https://boku.ac.at/en/international/themen/international-staff-coming-to-boku/support-for-guest-lecturers-employees/leben-in-wien-tipps/essen-tuerkenschanze).
 
