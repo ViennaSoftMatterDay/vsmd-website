@@ -10,21 +10,22 @@ cascade:
 
 We invite you to join us for the upcoming **2026 Vienna Soft Matter Day**, which will be a day-long event held on **20 November 2026** at the **Moonstone Seminar Center**, Institute of Science and Technology Austria (ISTA), 3400 Klosterneuburg. 
 
-**Registration availbe soon here [here](REGISTRATION_LINK).**  
+**Registration availbe soon [here](REGISTRATION_LINK).**  
 **The registration deadline is 15 September 2026.**
 
 The VSMD brings together soft matter experimentalists and theorists from across the greater Vienna area to share new results, exchange ideas, and form new collaborations.
 It is also an open setting for young researchers to showcase their work and connect with scientists at every career level.
 
-Our goal is to strengthen the local soft matter community and to create a welcoming space for scientific exchange. This is why the meeting is free of registration fees.
-We warmly encourage members of the soft matter community at all levels (PIs, postdocs, PhD students, master students, and anyone interested in soft matter research) to participate.
-
 There will be the opportunity for PhD students and postdocs to present their work via talks, posters, and flash talks, with enough time for discussions throughout the day.
 Once the registration and selection of talks is completed, you will be able to download the program here.
 
+Our goal is to strengthen the local soft matter community and to create a welcoming space for scientific exchange. This is why the meeting is free of registration fees.
+We encourage members of the soft matter community at all levels (PIs, postdocs, PhD students, master students, and anyone interested in soft matter research) to participate.
+
+
 The **venue** can be found on the [ISTA map](https://ist.ac.at/wp-content/uploads/2026/04/ISTA_Campus-Map_03-2026_Legende_1.pdf). The Moonstone Building / Seminar Center is marked as building 24.
 
-The **program** and information about **transport** to the venue **will follow**.
+Information about **transport** to the venue **will follow**.
 
 If you have questions, comments, or problems with the registration, please contact one of the organisers:
 
