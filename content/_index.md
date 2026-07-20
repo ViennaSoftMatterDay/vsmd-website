@@ -10,8 +10,8 @@ cascade:
 
 We invite you to join us for the upcoming **2026 Vienna Soft Matter Day**, which will be a day-long event held on **20 November 2026** at the **Moonstone Seminar Center**, Institute of Science and Technology Austria (ISTA), 3400 Klosterneuburg. 
 
-**Registration availbe soon [here](REGISTRATION_LINK).**  
-**The registration deadline is 15 September 2026.**
+**Registration available soon [here](REGISTRATION_LINK).**  
+**The registration deadline is 30th September 2026.**
 
 The VSMD brings together soft matter experimentalists and theorists from across the greater Vienna area to share new results, exchange ideas, and form new collaborations.
 It is also an open setting for young researchers to showcase their work and connect with scientists at every career level.
