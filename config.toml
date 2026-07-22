@@ -10,27 +10,26 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "VSMD25"
-    weight = 1
-    contentDir = "content"
-    # languageDirection = 'rtl' for Right-To-Left languages
+[languages.en]
+title = "VSMD25"
+weight = 1
+contentDir = "content"
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[sitemap] # languageDirection = 'rtl' for Right-To-Left languages
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = "VSMD_white.png"
-  description = "Webpage for the Vienna Soft Matter Day"
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 0
-  show_recent_posts = false
+text_color = ""
+author = ""
+favicon = ""
+site_logo = "VSMD_white.png"
+description = "Webpage for the Vienna Soft Matter Day"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+recent_posts_number = 0
+show_recent_posts = false
 
 # [[params.ananke_socials]]
 # name = "twitter"
