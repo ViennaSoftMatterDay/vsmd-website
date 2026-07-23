@@ -33,7 +33,7 @@ Information about **transport** to the venue **will follow**.
 
 If you have questions, comments, or problems with the registration, please contact one of the organisers:
 
-* [Terpischori Alexiou (Uni Wien)](mailto:Terpsichori.alexiou@univie.ac.at)
+* [Terpsichori Alexiou (Uni Wien)](mailto:Terpsichori.alexiou@univie.ac.at)
 * [Carina Karner (TU Wien)](mailto:carina.karner@tuwien.ac.at)
 * [Tayebeh Saghaei (BOKU)](mailto:t.saghaei@boku.ac.at)
 * [Scott Russell Waitukaitis (ISTA)](mailto:Scott.Waitukaitis@ist.ac.at)
